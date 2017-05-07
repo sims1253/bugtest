@@ -1,0 +1,7 @@
+[Python]
+files = **/*.py
+ignore = foo/bar.py
+max_line_length = 80
+
+[Python.linelength]
+bears = LineLengthBear
